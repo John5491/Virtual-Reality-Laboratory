@@ -9,5 +9,3 @@ It is a science experiment simulation that is set to accommodate secondary schoo
 Demo video below:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bLs9yfOONwI/0.jpg)](https://www.youtube.com/watch?v=bLs9yfOONwI)
-
-
